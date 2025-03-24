@@ -1,4 +1,4 @@
-<h2><Strong>-👋 Hi, I’m @LuquetaLC</h2>
+<h2><Strong>👋 Hi, I’m @LuquetaLC</h2>
 
 
 
