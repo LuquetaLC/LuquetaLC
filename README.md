@@ -1,24 +1,44 @@
-<h2><Strong>👋 Hi, I’m @LuquetaLC</h2>
+<h1 align="center">👋 Olá, eu sou o LuquetaLC</h1>
 
+<p align="center">
+💻 Estudante de Programação <br>
+🚀 Em constante evolução no mundo da tecnologia
+</p>
 
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7540F7&center=true&vCenter=true&width=435&lines=Estudante+de+Programação;HTML+CSS+JavaScript;Aprendendo+PHP;Future+Fullstack+Developer" />
+</p>
 
+---
 
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7540F7&center=true&random=false&width=435&lines=Estudante+de+programa%C3%A7%C3%A3o" alt="Typing SVG" /></a></p>
+## 🚀 Minhas Skills
 
+<p align="center">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img height="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+</p>
 
-<h2><strong>MY SKILLS:</h2>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+---
 
-<H2><Strong> SOCIALS:</H2>
-<Div>
-<a href="https://www.instagram.com/lqta.7/" target="-blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  
-</Div>
+## 📊 Estatísticas do GitHub
 
-<!---
-LuquetaLC/LuquetaLC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=LuquetaLC&show_icons=true&theme=tokyonight&count_private=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuquetaLC&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+## 🌎 Redes Sociais
+
+<p align="center">
+<a href="https://www.instagram.com/lqta.7/">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+</p>
+
+---
+
+⭐ Sempre aprendendo coisas novas e construindo projetos.
