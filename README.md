@@ -1,9 +1,5 @@
 <h1 align="center">👋 Olá, eu sou o LuquetaLC</h1>
 
-<p align="center">
-💻 Estudante de Programação <br>
-🚀 Em constante evolução no mundo da tecnologia
-</p>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+i+am+luca+student+programing" alt="Typing SVG" /></a>
