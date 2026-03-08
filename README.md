@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7540F7&center=true&vCenter=true&width=435&lines=Estudante+de+Programação;HTML+CSS+JavaScript;Aprendendo+PHP;Future+Fullstack+Developer" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=7540F7&center=true&vCenter=true&width=435&lines=Estudante+de+Programação;HTML+CSS+JavaScript;Aprendendo+PHP"/>
 </p>
 
 ---
