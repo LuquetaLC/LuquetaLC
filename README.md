@@ -5,7 +5,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=F7F7F7&width=435&lines=Hi%2C+i+am+luca+student+programing" alt="Typing SVG" /></a>
 </p>
 
----
 
 ## 🚀 Minhas Skills
 
@@ -16,7 +15,7 @@
 <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 </p>
 
----
+
 
 ## 📊 Estatísticas do GitHub
 
@@ -25,7 +24,7 @@
 <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuquetaLC&layout=compact&langs_count=6&theme=tokyonight"/>
 </p>
 
----
+
 
 ## 🌎 Redes Sociais
 
@@ -35,6 +34,6 @@
 </a>
 </p>
 
----
+
 
 ⭐ Sempre aprendendo coisas novas e construindo projetos.
