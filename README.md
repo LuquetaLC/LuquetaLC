@@ -8,5 +8,5 @@ Currently I focus on **Web Development**, studying **PHP**, but I also build pro
 ### 🚀 Technologies
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=php,python,js,html,css,mysql,git,linux,arch" />
+<img src="https://skillicons.dev/icons?i=php,python,js,html,css,mysql,git,linux" />
 </p>
