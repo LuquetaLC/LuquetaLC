@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.tenor.com/UI9IkhLQ3jwAAAAj/pokemon.gif" width="300">
+  <img src="https://media.tenor.com/UI9IkhLQ3jwAAAAj/pokemon.gif" width="250">
 </p>
 
 👨‍💻 About Me
