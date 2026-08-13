@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://tenor.com/g4YQe70EO8K.gif" width="200">
-</p>
-
+<div class="tenor-gif-embed" data-postid="5804938236921962044" data-share-method="host" data-aspect-ratio="0.92827" data-width="100%"><a href="https://tenor.com/view/pokemon-gif-5804938236921962044">Pokemon Sticker</a>from <a href="https://tenor.com/search/pokemon-stickers">Pokemon Stickers</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 ## 👨‍💻 About Me
 
 Hi! My name is Luca, I'm 17 years old and I've been passionate about technology since I was young.  
