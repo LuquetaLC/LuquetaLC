@@ -2,7 +2,7 @@
   <img src="https://media.tenor.com/UI9IkhLQ3jwAAAAj/pokemon.gif" width="250">
   <img src="https://media.tenor.com/EbqrdobATpAAAAAi/gengar.gif" width="250">
 </p>
-<div style="background-color: black;">
+<div style="background-color: white;">
 👨‍💻 About Me
 
 Hi! My name is Luca, I'm 17 years old and I've been passionate about technology since I was young.  
