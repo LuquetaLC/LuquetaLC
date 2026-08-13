@@ -1,7 +1,5 @@
 <p align="center">
   <img src="https://media.tenor.com/UI9IkhLQ3jwAAAAj/pokemon.gif" width="250">
-</p>
-<p align="center">
   <img src="https://media.tenor.com/EbqrdobATpAAAAAi/gengar.gif" width="250">
 </p>
 
