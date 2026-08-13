@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://i.pinimg.com/736x/6b/ce/07/6bce07b14cc75a293cda18ae288bf573.jpg" width="100%">
-</p>
 
 <h2 align="center">👨‍💻 About Me</h2>
 <p align="center">
