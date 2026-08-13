@@ -1,8 +1,13 @@
 <p align="center">
+  <img src="https://i.pinimg.com/736x/6b/ce/07/6bce07b14cc75a293cda18ae288bf573.jpg" width="100%">
+</p>
+
+<h2 align="center">👨‍💻 About Me</h2>
+<p align="center">
   <img src="https://media.tenor.com/UI9IkhLQ3jwAAAAj/pokemon.gif" width="250">
   <img src="https://media.tenor.com/EbqrdobATpAAAAAi/gengar.gif" width="250">
 </p>
-<div style="background-color: white;">
+
 👨‍💻 About Me
 
 Hi! My name is Luca, I'm 17 years old and I've been passionate about technology since I was young.  
